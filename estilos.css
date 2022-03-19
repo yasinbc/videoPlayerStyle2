@@ -1,0 +1,30 @@
+body{
+	margin: 10px;
+	padding: 5px;
+	background-color: black;
+}
+
+.head1{
+	background-color: aqua;
+	margin: 5px;
+	padding: 5px;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+#b1{
+	background-color: #2196f3;
+	color: white;
+}
+
+#b2{
+	background-color: red;
+	color: white;
+}
+
+#video{
+	margin-top: 10px;
+	width: 90%;
+	height: auto;
+}
